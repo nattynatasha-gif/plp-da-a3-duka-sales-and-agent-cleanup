@@ -1,5 +1,3 @@
-python
-"""
 Dataset generators for PLP DA A3:
 - Duka Electronics sales (seed 2026) → duka_sales.csv
 - Mobile-money agent network (seed 44) → agents.csv, agent_transactions.csv
